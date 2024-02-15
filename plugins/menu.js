@@ -97,7 +97,7 @@ const caption =`
  -----------------------------
   ⌬ | *𝚈𝙾𝚄𝚃𝚄𝙱𝙴*:\nyoutube.com/@noureddineouafy2
   ⌬ | *𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼*:\ninstagram.com/noureddine_ouafy
-⌬ | *𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺*:\nfacebook.com/profile.php?id=100063533185520
+⌬ | *𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺*:\nhttps://www.facebook.com/leo.nardo.x2008
   ----------------------------- 
 `
 
